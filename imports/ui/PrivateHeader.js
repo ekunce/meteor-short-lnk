@@ -4,10 +4,6 @@ import { Accounts } from 'meteor/accounts-base';
 
 
 class PrivateHeader extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   onLogout() {
     Accounts.logout();
   }
