@@ -19,3 +19,4 @@ shell-server@0.2.3            # Server-side component of the `meteor shell` comm
 
 accounts-password
 session
+fourseven:scss@=3.13.0
